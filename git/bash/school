@@ -1,2 +1,6 @@
 #!/bin/bash
-echo "The school is great!"
+<<<<<<< HEAD
+echo "The school is awesome!"
+=======
+echo "School is closed"
+>>>>>>> origin/main
